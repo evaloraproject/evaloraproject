@@ -1,0 +1,5 @@
+ccxt==4.3.57
+pandas==2.2.2
+pandas-ta==0.3.14b
+python-telegram-bot==21.3
+asyncio
